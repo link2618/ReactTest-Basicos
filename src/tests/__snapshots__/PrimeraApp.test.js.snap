@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de Primera App Debe mostrar el mensaje "Hola mundo" 1`] = `
+<Fragment>
+  <h1>
+    Hola mundo
+  </h1>
+  <p>
+    Soy un subtitulo
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas de Primera App Debe mostrar el subtitulo cuando se envia 1`] = `
+<Fragment>
+  <h1>
+    Hola mundo
+  </h1>
+  <p>
+    Soy el subtitulo eanviado
+  </p>
+</Fragment>
+`;
